@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Zweaf
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C++ , C , and Java
+- 📱 Discord: Zweaf#9916
